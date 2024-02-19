@@ -899,7 +899,7 @@ gsap.to(".page7-cir-inner",{
               params: {
                   'type': 'ERC20',
                   'options': {
-                      'address': '0xFbDCc7D3C5E7c0B9cc59397B67eC514dEe45CfE9',
+                      'address': '0x9101d89DABD8A262915DAe44C2066717EFAb9dCB',
                       'symbol': 'SYB',
                       'decimals': '18',
                       'image': src='https://syberium.net/images/kopl.png',
